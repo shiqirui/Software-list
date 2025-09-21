@@ -4,7 +4,7 @@ To upload a large number of files, must use Git. Win 10.
 Win + R
 cmd
 git
-跳转路径
+跳转路径，和项目同一级
 git init
 git status
 git add --all
