@@ -4,3 +4,12 @@ To upload a large number of files, must use Git. Win 10.
 Win + R
 cmd
 git
+跳转路径
+git init
+git status
+git add --all
+git status
+git commit -m "描述项目"
+git remote add origin github仓库地址
+git push -u origin master
+刷新
