@@ -1,0 +1,16 @@
+要上传大量文件必须借助Git. Win 10.
+To upload a large number of files, must use Git. Win 10.
+
+Win + R
+cmd
+git
+跳转路径，和项目同一级
+git init
+git status
+git add --all
+git status
+git commit -m "描述项目"
+可能出现注册要求，输入邮箱和姓名即可。
+git remote add origin github仓库地址
+git push -u origin master
+刷新
